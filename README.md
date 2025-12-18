@@ -35,15 +35,15 @@ Hi ! I’m Mehmet Can 👋
   [🔗 View Repository](https://github.com/olcay16itu/StationFlow-Frontend)
 
 
-- **flightAPI**  
+- **Flight API**  
   Sample backend API project using **Java**.  
-  Features: RESTful endpoints, basic CRUD operations.  
+  Features: RESTful endpoints, basic CRUD operations, cron jobs.  
   [🔗 View Repository](https://github.com/olcay16itu/flightAPI)
   
 ### 🤖 ML/DL Projects
 - **Deep-Learning-Works**  
   Jupyter notebooks with various **Deep Learning models**.  
-  Includes: CNNs for image classification, GANs for image-to-image translation, ViT experiments.  
+  Includes: CNNs for image classification,FCNN, LSTM, Transformer etc..  
   [🔗 View Repository](https://github.com/olcay16itu/Deep-Learning-Works)
 
 - **Traditional_ML_Projects**  
@@ -56,6 +56,12 @@ Hi ! I’m Mehmet Can 👋
   Includes: arrays, linked lists, stacks, queues, trees, graphs, sorting & searching algorithms.  
   Well-documented with examples for each structure.  
   [🔗 View Repository](https://github.com/olcay16itu/DataStructuresandAlgorithm)
+
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, C#, SQL, TypeScript  
+- **Web:** React, Spring Boot, Flask  
+- **ML/DL:** TensorFlow, Keras, PyTorch, Scikit-learn  
+- **Tools:** Git, Docker, AWS, Linux
 
 ### 🧠 Competitive Programming
 
