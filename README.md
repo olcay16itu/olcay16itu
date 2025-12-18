@@ -40,6 +40,8 @@
   Includes: arrays, linked lists, stacks, queues, trees, graphs, sorting & searching algorithms.  
   Well-documented with examples for each structure.  
   [🔗 View Repository](https://github.com/olcay16itu/DataStructuresandAlgorithm)
+  
+---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL, TypeScript, JavaScript 
@@ -50,7 +52,6 @@
 ### 🧠 Competitive Programming
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank)](https://www.hackerrank.com/profile/mehmetcanolcay11)
-
 
 ### 🏅 HackerRank Achievements
 
