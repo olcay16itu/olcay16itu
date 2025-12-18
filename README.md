@@ -42,8 +42,8 @@
   [🔗 View Repository](https://github.com/olcay16itu/DataStructuresandAlgorithm)
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, C#, SQL, TypeScript  
-- **Web:** React, Spring Boot, Flask  
+- **Languages:** Python, Java, SQL, TypeScript, JavaScript 
+- **Web:** React, Spring Boot  
 - **ML/DL:** TensorFlow, Keras, PyTorch, Scikit-learn  
 - **Tools:** Git, Docker, AWS, Linux
 
