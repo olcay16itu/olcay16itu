@@ -1,19 +1,3 @@
-
-<!--
-**olcay16itu/olcay16itu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi ! I’m Mehmet Can 👋  
 
 🎓 **MSc in Computer Engineering** — Gebze Technical University *(ongoing)*  
@@ -43,7 +27,7 @@ Hi ! I’m Mehmet Can 👋
 ### 🤖 ML/DL Projects
 - **Deep-Learning-Works**  
   Jupyter notebooks with various **Deep Learning models**.  
-  Includes: CNNs for image classification,FCNN, LSTM, Transformer etc..  
+  Includes: CNNs for image classification,FNN, LSTM, Transformer etc..  
   [🔗 View Repository](https://github.com/olcay16itu/Deep-Learning-Works)
 
 - **Traditional_ML_Projects**  
