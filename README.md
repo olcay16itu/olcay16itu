@@ -1,4 +1,4 @@
-Hi ! I’m Mehmet Can 👋  
+# Hi ! I’m Mehmet Can 👋  
 
 🎓 **MSc in Computer Engineering** — Gebze Technical University *(ongoing)*  
 🎓 **BSc in Geomatics Engineering** — Istanbul Technical University  
